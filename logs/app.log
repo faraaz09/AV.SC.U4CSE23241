@@ -1,0 +1,434 @@
+{"timestamp": "2026-05-06T08:44:47.173775+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "api down test"}
+{"timestamp": "2026-05-06T08:44:47.194299+00:00", "level": "info", "stack": "backend", "package": "service", "message": "auth header test"}
+{"timestamp": "2026-05-06T08:44:47.194299+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:44:47.200194+00:00", "level": "debug", "stack": "backend", "package": "handler", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:44:47.200194+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test info log"}
+{"timestamp": "2026-05-06T08:44:47.200194+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:44:47.201319+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "test error log"}
+{"timestamp": "2026-05-06T08:44:47.202348+00:00", "level": "fatal", "stack": "backend", "package": "handler", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:44:47.202348+00:00", "level": "debug", "stack": "frontend", "package": "component", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:44:47.202348+00:00", "level": "info", "stack": "frontend", "package": "component", "message": "test info log"}
+{"timestamp": "2026-05-06T08:44:47.202348+00:00", "level": "warn", "stack": "frontend", "package": "component", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:44:47.203852+00:00", "level": "error", "stack": "frontend", "package": "component", "message": "test error log"}
+{"timestamp": "2026-05-06T08:44:47.203852+00:00", "level": "fatal", "stack": "frontend", "package": "component", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:44:47.203852+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test message"}
+{"timestamp": "2026-05-06T08:44:47.213744+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:44:47.213744+00:00", "level": "fatal", "stack": "backend", "package": "db", "message": "Critical database connection failure."}
+{"timestamp": "2026-05-06T08:45:14.748204+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "api down test"}
+{"timestamp": "2026-05-06T08:45:14.748204+00:00", "level": "error", "stack": "backend", "package": "middleware", "message": "Log API unreachable (network down); entry already saved locally"}
+{"timestamp": "2026-05-06T08:45:14.749208+00:00", "level": "info", "stack": "backend", "package": "service", "message": "auth header test"}
+{"timestamp": "2026-05-06T08:45:14.750204+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:45:14.751205+00:00", "level": "debug", "stack": "backend", "package": "handler", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:45:14.751205+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test info log"}
+{"timestamp": "2026-05-06T08:45:14.751205+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:45:14.752205+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "test error log"}
+{"timestamp": "2026-05-06T08:45:14.752205+00:00", "level": "fatal", "stack": "backend", "package": "handler", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:45:14.752205+00:00", "level": "debug", "stack": "frontend", "package": "component", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:45:14.753203+00:00", "level": "info", "stack": "frontend", "package": "component", "message": "test info log"}
+{"timestamp": "2026-05-06T08:45:14.753203+00:00", "level": "warn", "stack": "frontend", "package": "component", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:45:14.753203+00:00", "level": "error", "stack": "frontend", "package": "component", "message": "test error log"}
+{"timestamp": "2026-05-06T08:45:14.753203+00:00", "level": "fatal", "stack": "frontend", "package": "component", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:45:14.756124+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test message"}
+{"timestamp": "2026-05-06T08:45:14.764116+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:45:14.764116+00:00", "level": "fatal", "stack": "backend", "package": "db", "message": "Critical database connection failure."}
+{"timestamp": "2026-05-06T08:45:24.278773+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=0"}
+{"timestamp": "2026-05-06T08:45:24.278773+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=0, hours_used=0/60, impact=0"}
+{"timestamp": "2026-05-06T08:45:24.280249+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.280249+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:45:24.280249+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.281603+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:45:24.281603+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=135h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.281603+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=28, hours_used=135/135, impact=175"}
+{"timestamp": "2026-05-06T08:45:24.282983+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=188h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.282983+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=30, hours_used=142/188, impact=177"}
+{"timestamp": "2026-05-06T08:45:24.283978+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.283978+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}
+{"timestamp": "2026-05-06T08:45:24.283978+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 5: budget=164h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.285532+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 5 scheduled: tasks=30, hours_used=142/164, impact=177"}
+{"timestamp": "2026-05-06T08:45:24.285532+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=50h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.285532+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=16, hours_used=50/50, impact=107"}
+{"timestamp": "2026-05-06T08:45:24.285532+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.286996+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:45:24.286996+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=135h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.288019+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=28, hours_used=135/135, impact=175"}
+{"timestamp": "2026-05-06T08:45:24.288019+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=188h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.289471+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=30, hours_used=142/188, impact=177"}
+{"timestamp": "2026-05-06T08:45:24.289471+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.290474+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}
+{"timestamp": "2026-05-06T08:45:24.290474+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 5: budget=164h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.291509+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 5 scheduled: tasks=30, hours_used=142/164, impact=177"}
+{"timestamp": "2026-05-06T08:45:24.291509+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=10h, available_tasks=2"}
+{"timestamp": "2026-05-06T08:45:24.291509+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=2, hours_used=7/10, impact=12"}
+{"timestamp": "2026-05-06T08:45:24.292539+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:45:24.293540+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}
+{"timestamp": "2026-05-06T08:45:32.108135+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.109881+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications called with empty or non-JSON body"}
+{"timestamp": "2026-05-06T08:45:32.112347+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.116769+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6639c904-2bc3-4de3-8978-5f7cb330df93 student_id=1 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.119466+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.121724+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.121724+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:45:32.123856+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.123856+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:45:32.126763+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.131661+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=dad1fbb1-2a90-413c-a198-01709ecfce2d student_id=1 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.134206+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.137162+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6942925e-71ed-416d-9470-2930ba35ea9c student_id=1 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.142400+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.143905+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Delete failed \u2014 notification not found: id=ghost-id"}
+{"timestamp": "2026-05-06T08:45:32.146240+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.151312+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=dba66f16-96ec-4007-a1aa-ce9726d50afd student_id=9 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.156049+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=dba66f16-96ec-4007-a1aa-ce9726d50afd deleted"}
+{"timestamp": "2026-05-06T08:45:32.159120+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=dba66f16-96ec-4007-a1aa-ce9726d50afd"}
+{"timestamp": "2026-05-06T08:45:32.160646+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.164117+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=no-such-id"}
+{"timestamp": "2026-05-06T08:45:32.164624+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.170604+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=d8ec2aab-f644-46ab-bfcf-ad218eec0dd2 student_id=6 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.173055+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=d8ec2aab-f644-46ab-bfcf-ad218eec0dd2"}
+{"timestamp": "2026-05-06T08:45:32.175763+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.176081+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:45:32.177262+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.184067+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4cd94121-5cc8-4903-9d43-30c0cf52b34c student_id=4 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.187457+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=4 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:32.188954+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.192524+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=3539915c-7751-4975-8928-d6a780e0173a student_id=3 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.199021+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=c902f383-06f8-4955-b68f-9d0542f7b11b student_id=3 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.201784+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=3 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:32.202823+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.205035+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.209286+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=b13f355c-f6a0-493b-bcda-c84809e2ddb9 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.216131+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=72987406-7355-45d7-8d96-04826064647b student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.221785+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=670182b9-d62a-4b4f-a095-a734d9da3f76 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.226916+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=975ded87-a26a-48cf-9b01-512d335571e0 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.232371+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=630795f2-2589-4498-a1ca-8a3e1f5c6f7b student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.235910+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 2 notifications for student_id=5 (page=1, limit=2)"}
+{"timestamp": "2026-05-06T08:45:32.237406+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.242383+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=c743d0b6-e492-4baf-af1e-bf8ad26f21bf student_id=2 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.245702+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=2 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:32.247484+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.247484+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "GET /notifications called without student_id"}
+{"timestamp": "2026-05-06T08:45:32.247484+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.254967+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=f1d69b83-767e-4768-a715-96489a258bdb student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.260604+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=259cfe96-2bd5-4dec-95ee-ba95853bc2c5 student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.266722+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=98cf337b-a0c7-4a29-8f24-509241061920 student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.272313+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 3 notifications as read for student_id=8"}
+{"timestamp": "2026-05-06T08:45:32.275195+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.277475+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.281904+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=20121aae-6153-4bea-a757-f1d010723f33 student_id=7 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.287009+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=20121aae-6153-4bea-a757-f1d010723f33 marked as read"}
+{"timestamp": "2026-05-06T08:45:32.289993+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=20121aae-6153-4bea-a757-f1d010723f33"}
+{"timestamp": "2026-05-06T08:45:32.291215+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.294049+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Mark-read failed \u2014 notification not found: id=fake-id"}
+{"timestamp": "2026-05-06T08:45:32.295587+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.295587+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=308f4f88-9c98-40a4-90e1-862fed73f9bb student_id=12 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.303852+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=57a2a1be-f8ba-42bd-951c-50db94108867 student_id=12 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.311495+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e7b57b4e-3883-4841-a9f2-f5229bb57a47 student_id=12 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.313878+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=12: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:45:32.315883+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.321160+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=df8af64b-2454-4208-aa33-f05a029cb655 student_id=14 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.327208+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=dda063c1-642e-45de-b99e-4afce4299cb0 student_id=14 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.332092+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=df8af64b-2454-4208-aa33-f05a029cb655 marked as read"}
+{"timestamp": "2026-05-06T08:45:32.335397+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=14: top 10 of 1 unread"}
+{"timestamp": "2026-05-06T08:45:32.336849+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.342998+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6db05db6-ebe2-423b-95e4-5bf38f58524a student_id=13 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.348793+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=acb77569-5c8a-4dcf-96ef-717ac02e60ca student_id=13 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.354089+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=d077fbe8-2722-4d70-aa50-9c981d39bbc6 student_id=13 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.357057+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=13: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:45:32.359032+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.360541+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.367183+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=2a527032-c665-4bf9-a697-7f531d043f0a student_id=10 type=Placement"}
+{"timestamp": "2026-05-06T08:45:32.367183+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=22e8d12c-6f7d-4f18-8935-635cb1022f8d student_id=10 type=Event"}
+{"timestamp": "2026-05-06T08:45:32.375749+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=10: 2"}
+{"timestamp": "2026-05-06T08:45:32.377053+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:32.381599+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=764097b0-a346-474b-9480-00ad1432c42f student_id=11 type=Result"}
+{"timestamp": "2026-05-06T08:45:32.384010+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 1"}
+{"timestamp": "2026-05-06T08:45:32.388715+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 1 notifications as read for student_id=11"}
+{"timestamp": "2026-05-06T08:45:32.391192+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 0"}
+{"timestamp": "2026-05-06T08:45:45.407134+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.407134+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications called with empty or non-JSON body"}
+{"timestamp": "2026-05-06T08:45:45.412712+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.414219+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5144ccae-7820-4e99-a393-12f8253fe400 student_id=1 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.420701+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.424082+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.424082+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:45:45.424082+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.424082+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:45:45.424082+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.430851+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e32d4044-90b6-406b-ae08-9e8957bd0787 student_id=1 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.435429+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.440514+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=a53775ff-ed31-4259-9a26-54ecbc1f2a43 student_id=1 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.444012+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.446032+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Delete failed \u2014 notification not found: id=ghost-id"}
+{"timestamp": "2026-05-06T08:45:45.448037+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.450042+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=f3fad082-1ef5-490d-a80b-4ee21a11b348 student_id=9 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.458309+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=f3fad082-1ef5-490d-a80b-4ee21a11b348 deleted"}
+{"timestamp": "2026-05-06T08:45:45.460318+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=f3fad082-1ef5-490d-a80b-4ee21a11b348"}
+{"timestamp": "2026-05-06T08:45:45.463809+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.463809+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=no-such-id"}
+{"timestamp": "2026-05-06T08:45:45.467016+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.471961+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e457535e-08b2-43e2-8d78-08e9d26e5f81 student_id=6 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.475317+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=e457535e-08b2-43e2-8d78-08e9d26e5f81"}
+{"timestamp": "2026-05-06T08:45:45.476737+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.477899+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:45:45.479371+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.483851+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e5d1ec6f-386c-4e59-bb5a-b474b9af881b student_id=4 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.485915+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=4 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:45.488413+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.492923+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=31c8dc39-4ff8-46ec-9245-d9a2e140e7a0 student_id=3 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.499350+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=40a8c010-35c9-440a-990f-580ca423ff76 student_id=3 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.502196+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=3 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:45.504226+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.505704+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.511009+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=9d35f9fd-5e9b-4dab-852f-4020dd2484e8 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.514088+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e64e66e7-ddfd-4357-863c-2a2bc8a5582a student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.519722+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=ec8e9c07-fd96-465b-9423-db16fd2e7c28 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.524190+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=ef6638d2-d63b-44a6-8335-fd60ee2ed5fd student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.524190+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e7afcbf4-0507-4857-9410-c34caecb7387 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.535053+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 2 notifications for student_id=5 (page=1, limit=2)"}
+{"timestamp": "2026-05-06T08:45:45.536447+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.542085+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=43cc230a-66c8-43b4-886a-af0540391b21 student_id=2 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.543914+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=2 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:45:45.546153+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.547789+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "GET /notifications called without student_id"}
+{"timestamp": "2026-05-06T08:45:45.547789+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.554083+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=fef6d918-0ee0-408e-bb86-e3cc5b07291d student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.554083+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=3c24255e-6aad-434b-8570-ff87164cc976 student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.564522+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4bdeaf89-d551-419b-8fce-c1a431b0f4f6 student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.570501+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 3 notifications as read for student_id=8"}
+{"timestamp": "2026-05-06T08:45:45.574057+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.576063+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.581070+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0d1d9915-04ef-4f25-a831-6f25e694e4a7 student_id=7 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.587732+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=0d1d9915-04ef-4f25-a831-6f25e694e4a7 marked as read"}
+{"timestamp": "2026-05-06T08:45:45.591624+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=0d1d9915-04ef-4f25-a831-6f25e694e4a7"}
+{"timestamp": "2026-05-06T08:45:45.593131+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.594138+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Mark-read failed \u2014 notification not found: id=fake-id"}
+{"timestamp": "2026-05-06T08:45:45.596588+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.601451+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=67de4514-aeef-45b5-a51f-47f046837187 student_id=12 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.606483+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=768fc520-97a2-481e-8dd4-b5fb2303fd11 student_id=12 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.614110+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=505f453f-a7d5-4876-be4f-ea1e5ce8df9d student_id=12 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.614110+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=12: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:45:45.617300+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.621205+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=2053b856-1a2f-4c60-a381-8d4553e1e9b9 student_id=14 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.629744+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=973847aa-af0c-4825-836f-b434894d0a31 student_id=14 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.634171+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=2053b856-1a2f-4c60-a381-8d4553e1e9b9 marked as read"}
+{"timestamp": "2026-05-06T08:45:45.636906+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=14: top 10 of 1 unread"}
+{"timestamp": "2026-05-06T08:45:45.639727+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.644829+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=b8255192-6d2c-41ef-9bb5-4b5b9f9678cb student_id=13 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.651779+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5402cc0d-42bf-45ad-bc7a-e7c3900ebf6f student_id=13 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.658054+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=ef398506-a3f6-40c0-96ec-6deae45f36b6 student_id=13 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.660572+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=13: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:45:45.662058+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.665053+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.669695+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=f097e989-9f6b-4a7a-8c30-da83a9144a84 student_id=10 type=Placement"}
+{"timestamp": "2026-05-06T08:45:45.676333+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=ad081ec2-885b-45e7-921b-b5bf73ce8d3a student_id=10 type=Event"}
+{"timestamp": "2026-05-06T08:45:45.679918+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=10: 2"}
+{"timestamp": "2026-05-06T08:45:45.679918+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:45:45.683932+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4ca8b7a8-705b-4fd6-8632-f145d44281d0 student_id=11 type=Result"}
+{"timestamp": "2026-05-06T08:45:45.683932+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 1"}
+{"timestamp": "2026-05-06T08:45:45.693917+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 1 notifications as read for student_id=11"}
+{"timestamp": "2026-05-06T08:45:45.693917+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 0"}
+{"timestamp": "2026-05-06T08:47:30.306658+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:47:30.313021+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:47:30.319596+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e8a3a3b8-d9f1-4992-80ad-9cba954326c5 student_id=1042 type=Placement"}
+{"timestamp": "2026-05-06T08:47:30.325381+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=64f4b6a5-41e7-431c-be2e-af0139a1a97a student_id=1042 type=Result"}
+{"timestamp": "2026-05-06T08:47:30.330880+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6a76e7e7-e9ce-4730-a0f5-acd4f47af530 student_id=1042 type=Event"}
+{"timestamp": "2026-05-06T08:47:30.333886+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 3 notifications for student_id=1042 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:47:30.336308+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=1042: 3"}
+{"timestamp": "2026-05-06T08:47:30.337487+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=1042: top 3 of 3 unread"}
+{"timestamp": "2026-05-06T08:47:30.340373+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=e8a3a3b8-d9f1-4992-80ad-9cba954326c5"}
+{"timestamp": "2026-05-06T08:47:30.345013+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=e8a3a3b8-d9f1-4992-80ad-9cba954326c5 marked as read"}
+{"timestamp": "2026-05-06T08:47:30.347440+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=1042: top 3 of 2 unread"}
+{"timestamp": "2026-05-06T08:47:30.349876+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=1042 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:47:30.354075+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 2 notifications as read for student_id=1042"}
+{"timestamp": "2026-05-06T08:47:30.356089+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=1042: 0"}
+{"timestamp": "2026-05-06T08:47:30.361000+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=6a76e7e7-e9ce-4730-a0f5-acd4f47af530 deleted"}
+{"timestamp": "2026-05-06T08:47:30.363924+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=6a76e7e7-e9ce-4730-a0f5-acd4f47af530"}
+{"timestamp": "2026-05-06T08:47:30.363924+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "GET /notifications called without student_id"}
+{"timestamp": "2026-05-06T08:50:53.732436+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:50:53.732436+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:51:54.009529+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:51:54.009529+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:51:54.017580+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6c549d79-f023-4571-9c84-d903b99e9eb9 student_id=1 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.021083+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4db865a2-b392-4190-9f8d-f80626dce71d student_id=1 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.024221+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=82e163d8-50d9-4802-ac46-b23e2fd8f7c9 student_id=1 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.024221+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:51:54.024221+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:51:54.024221+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications called with empty or non-JSON body"}
+{"timestamp": "2026-05-06T08:51:54.024221+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "GET /notifications called without student_id"}
+{"timestamp": "2026-05-06T08:51:54.038542+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=89fde04e-d87b-4a78-bf0c-eaf96366eb6a student_id=20 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.040729+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=20 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:51:54.046407+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e13b7394-4ebb-4764-a7e4-bb219ec0264c student_id=21 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.051411+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=1ab1d925-4069-4e5f-8f8a-a75850045ccd student_id=21 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.054074+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=21 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:51:54.059938+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=b8feba12-2b52-4c58-8df3-12ed2332cc0b student_id=22 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.059938+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=22 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:51:54.067339+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=dae2b225-498e-43d8-bb5d-37da85065946 student_id=23 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.072392+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5771d888-17d6-49a7-a182-275e9274c98d student_id=23 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.077958+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=f13db5b4-bd47-4eb3-b614-fcc0b858c859 student_id=23 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.084477+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=81aee1e5-920c-472c-903a-35917e873adb student_id=23 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.090100+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6673c312-ba7d-472e-bbda-3029fe4be0fa student_id=23 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.092407+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 2 notifications for student_id=23 (page=1, limit=2)"}
+{"timestamp": "2026-05-06T08:51:54.097922+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0609da8b-3e7d-4b36-bccb-67c4899aaf44 student_id=24 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.101200+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=0609da8b-3e7d-4b36-bccb-67c4899aaf44"}
+{"timestamp": "2026-05-06T08:51:54.102345+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=no-such-id"}
+{"timestamp": "2026-05-06T08:51:54.107071+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=9cb44755-6f88-48a4-8785-c028766fcd2e student_id=25 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.112941+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=9cb44755-6f88-48a4-8785-c028766fcd2e marked as read"}
+{"timestamp": "2026-05-06T08:51:54.113948+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=9cb44755-6f88-48a4-8785-c028766fcd2e"}
+{"timestamp": "2026-05-06T08:51:54.116874+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Mark-read failed \u2014 notification not found: id=fake-id"}
+{"timestamp": "2026-05-06T08:51:54.122899+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=85c475bc-594b-47e2-b5e9-546960e266ab student_id=26 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.127479+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=7d3865d1-6bb5-489e-82ba-6d484d0b6a14 student_id=26 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.133888+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=40192b11-8684-499e-868e-96836b270fd0 student_id=26 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.139166+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 3 notifications as read for student_id=26"}
+{"timestamp": "2026-05-06T08:51:54.144051+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5ec71fcc-dde6-438f-824d-6f59be9282f8 student_id=27 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.149943+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=5ec71fcc-dde6-438f-824d-6f59be9282f8 deleted"}
+{"timestamp": "2026-05-06T08:51:54.149943+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=5ec71fcc-dde6-438f-824d-6f59be9282f8"}
+{"timestamp": "2026-05-06T08:51:54.153944+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Delete failed \u2014 notification not found: id=ghost-id"}
+{"timestamp": "2026-05-06T08:51:54.159395+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=319f6234-5dde-4eea-9474-088bb1bd90ed student_id=30 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.166464+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=db2a9f14-ece0-4822-8f5f-9b41574c64b5 student_id=30 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.168775+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=30: 2"}
+{"timestamp": "2026-05-06T08:51:54.173940+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=34ffdf76-6036-4bb5-805d-b0a2273a6235 student_id=31 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.173940+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=31: 1"}
+{"timestamp": "2026-05-06T08:51:54.173940+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 1 notifications as read for student_id=31"}
+{"timestamp": "2026-05-06T08:51:54.185418+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=31: 0"}
+{"timestamp": "2026-05-06T08:51:54.191180+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=a8cfc7e6-9868-46da-9f0d-f7822683bf64 student_id=40 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.197167+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=3f6366f7-3c0c-4f43-ad8f-7300ca06fe17 student_id=40 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.203069+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=79e343cd-9d2f-4726-b287-e663df7dd3c3 student_id=40 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.205409+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=40: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:51:54.210151+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5b8324d5-25da-4db8-8af7-b93bd85cf0a9 student_id=41 type=Event"}
+{"timestamp": "2026-05-06T08:51:54.215994+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=5a0cd471-cea2-4578-b83b-40e86267a9f7 student_id=41 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.221810+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=be22aaff-a8fa-43fd-aca1-78ba468b6f39 student_id=41 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.223815+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=41: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:51:54.225975+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=6cf3d855-58fb-4889-95b9-eb9f5a79aab9 student_id=42 type=Result"}
+{"timestamp": "2026-05-06T08:51:54.235159+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0d1a27f6-40dd-414e-9194-03f03c3b91c1 student_id=42 type=Placement"}
+{"timestamp": "2026-05-06T08:51:54.241201+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=6cf3d855-58fb-4889-95b9-eb9f5a79aab9 marked as read"}
+{"timestamp": "2026-05-06T08:51:54.241201+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=42: top 10 of 1 unread"}
+{"timestamp": "2026-05-06T08:52:01.262362+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.262362+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications called with empty or non-JSON body"}
+{"timestamp": "2026-05-06T08:52:01.266768+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.273348+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=b8e1f25c-d133-4443-9324-5d5de8469122 student_id=1 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.276829+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.279474+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.279474+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:52:01.283986+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.283986+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "POST /notifications missing required fields: student_id, type, message"}
+{"timestamp": "2026-05-06T08:52:01.283986+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.290713+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=53bc5414-e15c-44e8-a1bf-dc5b3652b32b student_id=1 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.293835+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.299143+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0e40fbb0-9d61-4840-b946-0d665a3b775f student_id=1 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.303728+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.303728+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Delete failed \u2014 notification not found: id=ghost-id"}
+{"timestamp": "2026-05-06T08:52:01.307756+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.313060+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=13a61922-0227-49f4-924b-e905ba056d68 student_id=9 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.320274+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=13a61922-0227-49f4-924b-e905ba056d68 deleted"}
+{"timestamp": "2026-05-06T08:52:01.320274+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=13a61922-0227-49f4-924b-e905ba056d68"}
+{"timestamp": "2026-05-06T08:52:01.324131+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.324131+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Notification not found: id=no-such-id"}
+{"timestamp": "2026-05-06T08:52:01.324131+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.333716+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0726bedd-8620-4714-b387-0ed731d7b7e2 student_id=6 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.335239+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=0726bedd-8620-4714-b387-0ed731d7b7e2"}
+{"timestamp": "2026-05-06T08:52:01.339434+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.339434+00:00", "level": "info", "stack": "backend", "package": "route", "message": "Health check requested"}
+{"timestamp": "2026-05-06T08:52:01.343703+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.349571+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e472214c-bb07-467d-a5c3-036ef0b96c44 student_id=4 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.349571+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=4 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:52:01.353812+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.353812+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=b0c77024-dd74-4831-b251-8f044c3201d0 student_id=3 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.366832+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=fe10a0d7-8b4b-4773-b89e-fbb70144a79e student_id=3 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.366832+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=3 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:52:01.371743+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.373758+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.379473+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=417127bf-607c-4e81-9595-0e096e5e850c student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.383743+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=0a220ed2-e701-43e0-ba9f-6b7fa506cb5a student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.391502+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=86d3b75e-24bb-4cbc-a106-548ffa3edb3f student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.393791+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=3048bd1b-03a9-4f64-8447-5d5ffd23c631 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.403898+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=560abf91-cb62-4cc0-a2fe-56f433130862 student_id=5 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.403898+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 2 notifications for student_id=5 (page=1, limit=2)"}
+{"timestamp": "2026-05-06T08:52:01.409276+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.415611+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=1a2bd94c-ba36-46dc-ab25-543d866741b2 student_id=2 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.415611+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched 1 notifications for student_id=2 (page=1, limit=20)"}
+{"timestamp": "2026-05-06T08:52:01.421422+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.421422+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "GET /notifications called without student_id"}
+{"timestamp": "2026-05-06T08:52:01.423934+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.429741+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=a1b147fa-3cdb-4aa9-a2bc-18d5f83cbacc student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.436224+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=a22d90bb-265d-4d0e-95f5-569e024c9b4c student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.444088+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=8ab9171d-0bac-4fad-844a-9c0c19343c1d student_id=8 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.453871+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 3 notifications as read for student_id=8"}
+{"timestamp": "2026-05-06T08:52:01.458142+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.462156+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.467918+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4a01b04a-9f96-47c8-a038-18371a6201c6 student_id=7 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.475644+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=4a01b04a-9f96-47c8-a038-18371a6201c6 marked as read"}
+{"timestamp": "2026-05-06T08:52:01.475644+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Fetched notification id=4a01b04a-9f96-47c8-a038-18371a6201c6"}
+{"timestamp": "2026-05-06T08:52:01.481574+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.482891+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "Mark-read failed \u2014 notification not found: id=fake-id"}
+{"timestamp": "2026-05-06T08:52:01.485155+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.491462+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=abbcef52-8d3d-4930-9b64-7a9cc9b3a871 student_id=12 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.498241+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=9e9155ec-c3d8-4156-89e4-5922a2c4c229 student_id=12 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.503613+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=e52c813d-c9c5-45fd-87c7-97e2470e0345 student_id=12 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.506124+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=12: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:52:01.508124+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.512593+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=7537c4ac-de6e-48f4-9035-a7c98e7f4c72 student_id=14 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.519062+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=c694192a-3fbf-4812-a70f-e8aa14c49175 student_id=14 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.524173+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification id=7537c4ac-de6e-48f4-9035-a7c98e7f4c72 marked as read"}
+{"timestamp": "2026-05-06T08:52:01.526662+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=14: top 10 of 1 unread"}
+{"timestamp": "2026-05-06T08:52:01.526662+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.535887+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=7a118d7e-5f40-47c9-9806-1bfbdba79811 student_id=13 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.541768+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=a41eab81-f7d3-4a1a-ae97-f5af05076d16 student_id=13 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.546949+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4c44cfdd-5599-4db1-9f0e-a1f1803a9296 student_id=13 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.550221+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Priority inbox for student_id=13: top 10 of 3 unread"}
+{"timestamp": "2026-05-06T08:52:01.553935+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.555114+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.555114+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=32626578-e695-453e-8ea1-e96f8ee2aec9 student_id=10 type=Placement"}
+{"timestamp": "2026-05-06T08:52:01.566368+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=4fa60edf-2c8b-4a29-bc1f-d7a5513a6493 student_id=10 type=Event"}
+{"timestamp": "2026-05-06T08:52:01.566368+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=10: 2"}
+{"timestamp": "2026-05-06T08:52:01.573698+00:00", "level": "info", "stack": "backend", "package": "db", "message": "SQLite database initialised with notifications table"}
+{"timestamp": "2026-05-06T08:52:01.573698+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Notification created: id=eafdde5b-4128-43c9-93a0-72c40305c052 student_id=11 type=Result"}
+{"timestamp": "2026-05-06T08:52:01.582838+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 1"}
+{"timestamp": "2026-05-06T08:52:01.588284+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Marked all 1 notifications as read for student_id=11"}
+{"timestamp": "2026-05-06T08:52:01.588284+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "Unread count for student_id=11: 0"}
+{"timestamp": "2026-05-06T08:52:01.603673+00:00", "level": "debug", "stack": "backend", "package": "handler", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test info log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "warn", "stack": "backend", "package": "handler", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "test error log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "fatal", "stack": "backend", "package": "handler", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "debug", "stack": "frontend", "package": "component", "message": "test debug log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "info", "stack": "frontend", "package": "component", "message": "test info log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "warn", "stack": "frontend", "package": "component", "message": "test warn log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "error", "stack": "frontend", "package": "component", "message": "test error log"}
+{"timestamp": "2026-05-06T08:52:01.606089+00:00", "level": "fatal", "stack": "frontend", "package": "component", "message": "test fatal log"}
+{"timestamp": "2026-05-06T08:52:01.610486+00:00", "level": "info", "stack": "backend", "package": "handler", "message": "test message"}
+{"timestamp": "2026-05-06T08:52:01.621509+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:52:01.622507+00:00", "level": "fatal", "stack": "backend", "package": "db", "message": "Critical database connection failure."}
+{"timestamp": "2026-05-06T08:52:01.624011+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "api down test"}
+{"timestamp": "2026-05-06T08:52:01.625016+00:00", "level": "error", "stack": "backend", "package": "middleware", "message": "Log API unreachable (network down); entry already saved locally"}
+{"timestamp": "2026-05-06T08:52:01.626017+00:00", "level": "info", "stack": "backend", "package": "service", "message": "auth header test"}
+{"timestamp": "2026-05-06T08:52:01.628022+00:00", "level": "error", "stack": "backend", "package": "handler", "message": "received string, expected bool"}
+{"timestamp": "2026-05-06T08:52:01.648103+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=0"}
+{"timestamp": "2026-05-06T08:52:01.648103+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=0, hours_used=0/60, impact=0"}
+{"timestamp": "2026-05-06T08:52:01.649116+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.650100+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:52:01.651101+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.651101+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:52:01.651101+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=135h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.651101+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=28, hours_used=135/135, impact=175"}
+{"timestamp": "2026-05-06T08:52:01.653108+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=188h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.653108+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=30, hours_used=142/188, impact=177"}
+{"timestamp": "2026-05-06T08:52:01.654217+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.654217+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}
+{"timestamp": "2026-05-06T08:52:01.654217+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 5: budget=164h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.654217+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 5 scheduled: tasks=30, hours_used=142/164, impact=177"}
+{"timestamp": "2026-05-06T08:52:01.654217+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=50h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=16, hours_used=50/50, impact=107"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 1: budget=60h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 1 scheduled: tasks=17, hours_used=60/60, impact=117"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 2: budget=135h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 2 scheduled: tasks=28, hours_used=135/135, impact=175"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=188h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=30, hours_used=142/188, impact=177"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 5: budget=164h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 5 scheduled: tasks=30, hours_used=142/164, impact=177"}
+{"timestamp": "2026-05-06T08:52:01.657186+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 3: budget=10h, available_tasks=2"}
+{"timestamp": "2026-05-06T08:52:01.663807+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 3 scheduled: tasks=2, hours_used=7/10, impact=12"}
+{"timestamp": "2026-05-06T08:52:01.663807+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Scheduling depot 4: budget=97h, available_tasks=30"}
+{"timestamp": "2026-05-06T08:52:01.663807+00:00", "level": "info", "stack": "backend", "package": "service", "message": "Depot 4 scheduled: tasks=23, hours_used=96/97, impact=155"}

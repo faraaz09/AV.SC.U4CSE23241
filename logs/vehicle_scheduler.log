@@ -1,0 +1,29 @@
+{"timestamp": "2026-05-06T08:31:03.031083+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 3, "budget_hours": 10, "available_tasks": 3}
+{"timestamp": "2026-05-06T08:31:03.031083+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 3, "tasks_selected": 2, "hours_used": 8, "total_impact": 16}
+{"timestamp": "2026-05-06T08:31:03.031083+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 1, "budget_hours": 60, "available_tasks": 15}
+{"timestamp": "2026-05-06T08:31:03.032470+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 1, "tasks_selected": 15, "hours_used": 48, "total_impact": 64}
+{"timestamp": "2026-05-06T08:31:03.032470+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 2, "budget_hours": 50, "available_tasks": 10}
+{"timestamp": "2026-05-06T08:31:03.032470+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 2, "tasks_selected": 10, "hours_used": 50, "total_impact": 55}
+{"timestamp": "2026-05-06T08:31:03.032470+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 1, "budget_hours": 60, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:03.033822+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 1, "tasks_selected": 17, "hours_used": 60, "total_impact": 117}
+{"timestamp": "2026-05-06T08:31:03.033822+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 2, "budget_hours": 135, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:03.033822+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 2, "tasks_selected": 28, "hours_used": 135, "total_impact": 175}
+{"timestamp": "2026-05-06T08:31:03.033822+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 3, "budget_hours": 188, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:03.035245+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 3, "tasks_selected": 30, "hours_used": 142, "total_impact": 177}
+{"timestamp": "2026-05-06T08:31:03.035245+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 4, "budget_hours": 97, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:03.036266+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 4, "tasks_selected": 23, "hours_used": 96, "total_impact": 155}
+{"timestamp": "2026-05-06T08:31:03.036266+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 5, "budget_hours": 164, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:03.036266+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 5, "tasks_selected": 30, "hours_used": 142, "total_impact": 177}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Vehicle Maintenance Scheduler started", "mock": true}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Using mock data"}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 1, "budget_hours": 60, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 1, "tasks_selected": 17, "hours_used": 60, "total_impact": 117}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 2, "budget_hours": 135, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 2, "tasks_selected": 28, "hours_used": 135, "total_impact": 175}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 3, "budget_hours": 188, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:17.128501+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 3, "tasks_selected": 30, "hours_used": 142, "total_impact": 177}
+{"timestamp": "2026-05-06T08:31:17.133857+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 4, "budget_hours": 97, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:17.133857+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 4, "tasks_selected": 23, "hours_used": 96, "total_impact": 155}
+{"timestamp": "2026-05-06T08:31:17.133857+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Scheduling depot", "depot_id": 5, "budget_hours": 164, "available_tasks": 30}
+{"timestamp": "2026-05-06T08:31:17.133857+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Depot scheduled", "depot_id": 5, "tasks_selected": 30, "hours_used": 142, "total_impact": 177}
+{"timestamp": "2026-05-06T08:31:17.135948+00:00", "level": "INFO", "service": "vehicle_scheduler", "message": "Results written", "file": "C:\\Users\\gvnsa\\Downloads\\vehicle_maintenance_backend\\vehicle_scheduling\\schedule_output.json"}
